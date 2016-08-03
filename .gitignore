@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.direnv
+.envrc
+.DS_Store
+.ipynb_checkpoints
